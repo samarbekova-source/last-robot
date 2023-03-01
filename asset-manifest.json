@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/last-robot/static/css/main.6aeb7cdc.css",
+    "main.js": "/last-robot/static/js/main.027572a4.js",
+    "static/js/787.32032a02.chunk.js": "/last-robot/static/js/787.32032a02.chunk.js",
+    "index.html": "/last-robot/index.html",
+    "main.6aeb7cdc.css.map": "/last-robot/static/css/main.6aeb7cdc.css.map",
+    "main.027572a4.js.map": "/last-robot/static/js/main.027572a4.js.map",
+    "787.32032a02.chunk.js.map": "/last-robot/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aeb7cdc.css",
+    "static/js/main.027572a4.js"
+  ]
+}
