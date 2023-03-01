@@ -16,7 +16,7 @@ const CardList = ({ robots }) => {
   return <div>{cardArrays}</div>;
 };
 
-// ? second one
+// ? second one can also try
 // const CardList = ({ robots }) => {
 //   if (true) {
 //     throw new Error("NOOOOOO!");
